@@ -1,0 +1,3 @@
+Como no habia guidelines sobre como presentar el string final
+decidi usar las mias basandome en permitir espacios dentro de los inputs pero no permitir strings vacios o espacios antes y despues del texto (Para eso el trim).
+En caso de no tener que permitir espacios dentro de un mismo string puedo cambiar el codigo o algo.
